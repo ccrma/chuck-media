@@ -1,0 +1,54 @@
+Made in ChucK: works and tools powered by ChucK
+---
+Ocarina (2008; 10 million downloads):
+https://artful.design/ocarina/
+
+selected SLOrk works:
+https://slork.stanford.edu/works/
+
+The Furies: A LaptOpera (a laptop orchestra opera):
+https://laptopera.org/
+
+THX Deep Note in ChucK:
+https://artful.design/thx/
+
+MIDI.CITI (made with Chunity)
+https://www.youtube.com/watch?v=NnWQ5xpKBCk
+
+Final projects in audiovisual design (made with Chunity):
+https://ccrma.stanford.edu/courses/256a-fall-2022/projects/
+https://ccrma.stanford.edu/courses/256a-fall-2021/projects/
+https://ccrma.stanford.edu/courses/256a-fall-2020/projects/
+https://ccrma.stanford.edu/courses/256a-fall-2019/projects/
+https://ccrma.stanford.edu/courses/256a-fall-2018/projects/
+https://ccrma.stanford.edu/courses/256a-fall-2017/projects/
+
+
+Tools
+---
+WebChucK (ChucK in web browsers)
+https://chuck.stanford.edu/webchuck/
+
+WebChucK IDE
+https://chuck.stanford.edu/ide/
+
+ChuGL (Unified Audio + Graphics Programming)
+https://chuck.stanford.edu/chugl/
+
+Chunity (ChucK in Unity):
+https://chuck.stanford.edu/chunity/
+
+ChAI (ChucK and AI):
+https://chuck.stanford.edu/chai/
+
+Unit Analyzers (audio analysis in ChucK):
+https://chuck.stanford.edu/uana/
+
+FaucK (FAUST in ChucK):
+https://ccrma.stanford.edu/~rmichon/fauck/
+
+Chunreal (ChucK in Unreal Engine)
+https://github.com/ccrma/chunreal
+
+ChucKDesigner (ChucK in TouchDesigner)
+https://github.com/dbraun/ChucKDesigner
